@@ -1,6 +1,7 @@
 "use client";
 import React, { useState } from 'react';
 import Navbar from '../components/Navbar';
+import Footer from '../components/Footer';
 
 const blogPosts = [
   {
@@ -109,6 +110,7 @@ const Blog = () => {
         </div>
         <Modal show={showModal} onClose={closeModal} content={selectedPost || {}} />
       </section>
+      <Footer />
     </>
   );
 };

@@ -1,0 +1,69 @@
+1:"$Sreact.fragment"
+2:I[7555,[],""]
+3:I[1295,[],""]
+4:I[4055,["992","static/chunks/992-dfc2bd44eac376c1.js","201","static/chunks/app/Blog/%5Bslug%5D/page-31e87342eba6d50e.js"],"default"]
+5:I[6874,["992","static/chunks/992-dfc2bd44eac376c1.js","201","static/chunks/app/Blog/%5Bslug%5D/page-31e87342eba6d50e.js"],""]
+6:I[3063,["992","static/chunks/992-dfc2bd44eac376c1.js","201","static/chunks/app/Blog/%5Bslug%5D/page-31e87342eba6d50e.js"],"Image"]
+8:I[9665,[],"MetadataBoundary"]
+a:I[9665,[],"OutletBoundary"]
+d:I[4911,[],"AsyncMetadataOutlet"]
+f:I[9665,[],"ViewportBoundary"]
+11:I[6614,[],""]
+:HL["/_next/static/css/b76cc3ae7af90e6f.css","style"]
+7:Td06,
+      <h2>A deep dive into common ML algorithms for beginners</h2>
+      <p>Machine learning is transforming industries and creating new opportunities across the globe. This article provides an introduction to some of the most common machine learning algorithms, explaining how they work and when to use them.</p>
+      
+      <h3>What is Machine Learning?</h3>
+      <p>Machine learning is a subset of artificial intelligence that enables systems to learn and improve from experience without being explicitly programmed. It focuses on developing computer programs that can access data and use it to learn for themselves.</p>
+      
+      <h3>Supervised Learning Algorithms</h3>
+      <p>Supervised learning algorithms learn from labeled training data to make predictions about new, unseen data.</p>
+      
+      <h4>Linear Regression</h4>
+      <p>Linear regression is used for predicting a continuous value based on one or more input variables. It assumes a linear relationship between the input variables and the output.</p>
+      
+      <h4>Logistic Regression</h4>
+      <p>Despite its name, logistic regression is used for classification problems, not regression. It predicts the probability of an event occurring.</p>
+      
+      <h4>Decision Trees</h4>
+      <p>Decision trees make decisions by splitting data into subsets based on feature values. They are easy to understand and interpret, making them popular for both classification and regression tasks.</p>
+      
+      <h4>Random Forest</h4>
+      <p>Random forest is an ensemble method that combines multiple decision trees to improve accuracy and reduce overfitting.</p>
+      
+      <h4>Support Vector Machines (SVM)</h4>
+      <p>SVM finds the optimal hyperplane that maximally separates the classes in the feature space.</p>
+      
+      <h3>Unsupervised Learning Algorithms</h3>
+      <p>Unsupervised learning algorithms find patterns in unlabeled data without predefined outcomes.</p>
+      
+      <h4>K-Means Clustering</h4>
+      <p>K-means clustering partitions data into K clusters based on similarity. It's widely used for customer segmentation, image compression, and document clustering.</p>
+      
+      <h4>Hierarchical Clustering</h4>
+      <p>Hierarchical clustering creates a tree of clusters, showing the relationships between different groups.</p>
+      
+      <h4>Principal Component Analysis (PCA)</h4>
+      <p>PCA reduces the dimensionality of data by finding the directions of maximum variance.</p>
+      
+      <h3>Neural Networks</h3>
+      <p>Neural networks are inspired by the human brain and consist of layers of interconnected nodes (neurons).</p>
+      
+      <h4>Convolutional Neural Networks (CNN)</h4>
+      <p>CNNs are particularly effective for image recognition tasks, using convolutional layers to detect features in images.</p>
+      
+      <h4>Recurrent Neural Networks (RNN)</h4>
+      <p>RNNs are designed to work with sequential data, making them suitable for tasks like natural language processing and time series analysis.</p>
+      
+      <h3>Conclusion</h3>
+      <p>Understanding these fundamental machine learning algorithms is the first step toward becoming proficient in the field. Each algorithm has its strengths and weaknesses, and the key to success is choosing the right one for your specific problem.</p>
+    0:{"P":null,"b":"wtZ8MPSEEqIbqnwzpfL0v","p":"","c":["","Blog","ml-algorithms-explained",""],"i":false,"f":[[["",{"children":["Blog",{"children":[["slug","ml-algorithms-explained","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b76cc3ae7af90e6f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__variable_5cfdac __variable_9a8899 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":["Blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","ml-algorithms-explained","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[[["$","$L4",null,{}],["$","div",null,{"className":"fixed inset-0 -z-10 min-h-screen w-full [background:radial-gradient(125%_125%_at_50%_10%,#000_40%,#63e_100%)]"}],["$","div",null,{"className":"min-h-screen text-white","children":["$","div",null,{"className":"container mx-auto px-4 py-16","children":[["$","$L5",null,{"href":"/Blog","className":"inline-flex items-center text-purple-400 mb-8 hover:text-purple-300 transition-colors","children":[["$","svg",null,{"className":"w-5 h-5 mr-2","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","xmlns":"http://www.w3.org/2000/svg","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2","d":"M15 19l-7-7 7-7"}]}],"Back to Blog"]}],["$","article",null,{"className":"bg-gray-800 rounded-xl overflow-hidden shadow-xl","children":[["$","div",null,{"className":"relative h-64 md:h-96","children":["$","$L6",null,{"src":"/images/ml-algorithms.jpg","alt":"Machine Learning Algorithms Explained","fill":true,"style":{"objectFit":"cover"},"sizes":"(max-width: 768px) 100vw, (max-width: 1200px) 80vw, 70vw"}]}],["$","div",null,{"className":"p-8","children":[["$","div",null,{"className":"flex items-center mb-4","children":[["$","span",null,{"className":"inline-block px-3 py-1 text-xs font-semibold bg-purple-600 text-white rounded-full mr-4","children":"AI project"}],["$","span",null,{"className":"text-gray-400 text-sm","children":"December 18, 2022"}]]}],["$","h1",null,{"className":"text-4xl font-bold mb-6","children":"Machine Learning Algorithms Explained"}],["$","div",null,{"className":"prose prose-invert max-w-none","dangerouslySetInnerHTML":{"__html":"$7"}}]]}]]}]]}]}]],["$","$L8",null,{"children":"$L9"}],null,["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","pzCTGKhiFn3RgBj9yiXDH",{"children":[["$","$Lf",null,{"children":"$L10"}],null]}],null]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+12:"$Sreact.suspense"
+13:I[4911,[],"AsyncMetadata"]
+9:["$","$12",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]
+c:null
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+14:{"metadata":[["$","title","0",{"children":"Rahul Son Boro"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}],["$","link","2",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]],"error":null,"digest":"$undefined"}
+e:{"metadata":"$14:metadata","error":null,"digest":"$undefined"}

@@ -1,0 +1,55 @@
+1:"$Sreact.fragment"
+2:I[7555,[],""]
+3:I[1295,[],""]
+4:I[4055,["992","static/chunks/992-dfc2bd44eac376c1.js","201","static/chunks/app/Blog/%5Bslug%5D/page-31e87342eba6d50e.js"],"default"]
+5:I[6874,["992","static/chunks/992-dfc2bd44eac376c1.js","201","static/chunks/app/Blog/%5Bslug%5D/page-31e87342eba6d50e.js"],""]
+6:I[3063,["992","static/chunks/992-dfc2bd44eac376c1.js","201","static/chunks/app/Blog/%5Bslug%5D/page-31e87342eba6d50e.js"],"Image"]
+8:I[9665,[],"MetadataBoundary"]
+a:I[9665,[],"OutletBoundary"]
+d:I[4911,[],"AsyncMetadataOutlet"]
+f:I[9665,[],"ViewportBoundary"]
+11:I[6614,[],""]
+:HL["/_next/static/css/b76cc3ae7af90e6f.css","style"]
+7:T851,
+      <h2>A closer look at celestial events and the night sky</h2>
+      <p>The night sky has fascinated humans for millennia. From ancient civilizations using the stars for navigation to modern astronomers discovering distant galaxies, our relationship with the cosmos continues to evolve.</p>
+      
+      <h3>What are Shooting Stars?</h3>
+      <p>Contrary to their name, shooting stars are not actually stars at all. They are meteoroids—small pieces of rock or debris from space—that enter Earth's atmosphere and burn up, creating a streak of light across the night sky.</p>
+      
+      <h3>Meteor Showers</h3>
+      <p>Meteor showers occur when Earth passes through the debris trail left by a comet. Some of the most famous meteor showers include:</p>
+      <ul>
+        <li><strong>Perseids:</strong> Visible in August, originating from the comet Swift-Tuttle</li>
+        <li><strong>Leonids:</strong> Visible in November, originating from the comet Tempel-Tuttle</li>
+        <li><strong>Geminids:</strong> Visible in December, originating from the asteroid 3200 Phaethon</li>
+      </ul>
+      
+      <h3>How to Observe Meteor Showers</h3>
+      <p>For the best viewing experience:</p>
+      <ul>
+        <li>Find a dark location away from city lights</li>
+        <li>Allow your eyes to adjust to the darkness (about 20-30 minutes)</li>
+        <li>Look up at the sky and be patient</li>
+        <li>Bring a comfortable chair or blanket to lie on</li>
+      </ul>
+      
+      <h3>Other Celestial Events</h3>
+      <p>Beyond meteor showers, the night sky offers many other wonders:</p>
+      <ul>
+        <li><strong>Eclipses:</strong> Solar and lunar eclipses</li>
+        <li><strong>Planetary Alignments:</strong> When planets appear close together in the sky</li>
+        <li><strong>Auroras:</strong> Colorful light displays in the polar regions</li>
+      </ul>
+      
+      <h3>Conclusion</h3>
+      <p>Whether you're an experienced astronomer or just beginning to explore the night sky, there's always something new to discover. Take the time to look up and marvel at the wonders of the universe.</p>
+    0:{"P":null,"b":"wtZ8MPSEEqIbqnwzpfL0v","p":"","c":["","Blog","shooting-stars",""],"i":false,"f":[[["",{"children":["Blog",{"children":[["slug","shooting-stars","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b76cc3ae7af90e6f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__variable_5cfdac __variable_9a8899 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":["Blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","shooting-stars","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[[["$","$L4",null,{}],["$","div",null,{"className":"fixed inset-0 -z-10 min-h-screen w-full [background:radial-gradient(125%_125%_at_50%_10%,#000_40%,#63e_100%)]"}],["$","div",null,{"className":"min-h-screen text-white","children":["$","div",null,{"className":"container mx-auto px-4 py-16","children":[["$","$L5",null,{"href":"/Blog","className":"inline-flex items-center text-purple-400 mb-8 hover:text-purple-300 transition-colors","children":[["$","svg",null,{"className":"w-5 h-5 mr-2","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","xmlns":"http://www.w3.org/2000/svg","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2","d":"M15 19l-7-7 7-7"}]}],"Back to Blog"]}],["$","article",null,{"className":"bg-gray-800 rounded-xl overflow-hidden shadow-xl","children":[["$","div",null,{"className":"relative h-64 md:h-96","children":["$","$L6",null,{"src":"/images/astronomy.jpg","alt":"Shooting Stars","fill":true,"style":{"objectFit":"cover"},"sizes":"(max-width: 768px) 100vw, (max-width: 1200px) 80vw, 70vw"}]}],["$","div",null,{"className":"p-8","children":[["$","div",null,{"className":"flex items-center mb-4","children":[["$","span",null,{"className":"inline-block px-3 py-1 text-xs font-semibold bg-purple-600 text-white rounded-full mr-4","children":"Astronomy"}],["$","span",null,{"className":"text-gray-400 text-sm","children":"February 10, 2023"}]]}],["$","h1",null,{"className":"text-4xl font-bold mb-6","children":"Shooting Stars"}],["$","div",null,{"className":"prose prose-invert max-w-none","dangerouslySetInnerHTML":{"__html":"$7"}}]]}]]}]]}]}]],["$","$L8",null,{"children":"$L9"}],null,["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","TxuSclYgzLQx7vnODSYH5",{"children":[["$","$Lf",null,{"children":"$L10"}],null]}],null]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+12:"$Sreact.suspense"
+13:I[4911,[],"AsyncMetadata"]
+9:["$","$12",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]
+c:null
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+14:{"metadata":[["$","title","0",{"children":"Rahul Son Boro"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}],["$","link","2",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]],"error":null,"digest":"$undefined"}
+e:{"metadata":"$14:metadata","error":null,"digest":"$undefined"}

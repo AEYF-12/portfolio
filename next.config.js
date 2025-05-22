@@ -1,7 +1,14 @@
-const isProd = process.env.NODE_ENV === 'production';
+/**
+ * @type {import('next').NextConfig}
+ */
+const nextConfig = {
+  output: 'export',
+  distDir: 'dist',
+  reactStrictMode: true,
+  trailingSlash: true, // recommended for static export
+  images: {
+    unoptimized: true, // 🔧 disables image optimization for static export
+  },
+}
 
-module.exports = {
-  output: 'export', // ensures static export
-  basePath: isProd ? '/your-repo-name' : '',
-  assetPrefix: isProd ? '/your-repo-name/' : '',
-};
+module.exports = nextConfig

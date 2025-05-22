@@ -28,9 +28,8 @@ const Navbar = () => {
 
         {/* Navigation Links */}
         <ul
-          className={`flex-col md:flex-row md:flex gap-10 items-center text-lg font-medium w-full md:w-auto ${
-            menuOpen ? "flex mt-4" : "hidden"
-          } md:mt-0`}
+          className={`flex-col md:flex-row md:flex gap-10 items-center text-lg font-medium w-full md:w-auto ${menuOpen ? "flex mt-4" : "hidden"
+            } md:mt-0`}
         >
           <li>
             <Link href="/" className="hover:text-purple-400">Home</Link>
@@ -45,7 +44,7 @@ const Navbar = () => {
 
         {/* Contact Button */}
         <div className={`w-full md:w-auto mt-4 md:mt-0 ${menuOpen ? "block" : "hidden"} md:block`}>
-          <Link href="/">
+          <Link href="/Contact">
             <button className="bg-fuchsia-600 hover:bg-fuchsia-700 text-white font-bold py-2 px-4 rounded-full w-full md:w-auto">
               Contact me
             </button>

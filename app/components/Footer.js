@@ -20,9 +20,6 @@ const Footer = () => {
                     <li>
                         <Link href="/Blog" className="hover:underline">Blog</Link>
                     </li>
-                    <li>
-                        <Link href="#" className="hover:underline">Contact</Link>
-                    </li>
                 </ul>
             </div>
 

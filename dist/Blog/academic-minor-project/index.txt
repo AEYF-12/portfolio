@@ -1,0 +1,49 @@
+1:"$Sreact.fragment"
+2:I[7555,[],""]
+3:I[1295,[],""]
+4:I[4055,["992","static/chunks/992-dfc2bd44eac376c1.js","201","static/chunks/app/Blog/%5Bslug%5D/page-31e87342eba6d50e.js"],"default"]
+5:I[6874,["992","static/chunks/992-dfc2bd44eac376c1.js","201","static/chunks/app/Blog/%5Bslug%5D/page-31e87342eba6d50e.js"],""]
+6:I[3063,["992","static/chunks/992-dfc2bd44eac376c1.js","201","static/chunks/app/Blog/%5Bslug%5D/page-31e87342eba6d50e.js"],"Image"]
+8:I[9665,[],"MetadataBoundary"]
+a:I[9665,[],"OutletBoundary"]
+d:I[4911,[],"AsyncMetadataOutlet"]
+f:I[9665,[],"ViewportBoundary"]
+11:I[6614,[],""]
+:HL["/_next/static/css/b76cc3ae7af90e6f.css","style"]
+7:T6ef,
+      <h2>Using MediaPipe Pose, YOLO v6, and StowFast to Detect Threats in Malls</h2>
+      <p>This project was developed as part of my academic minor project. The goal was to create a real-time threat detection system for shopping malls using computer vision technologies.</p>
+      
+      <h3>The Challenge</h3>
+      <p>Shopping malls face various security challenges, from theft to more serious threats. Traditional security measures often rely on human operators monitoring CCTV feeds, which can be inefficient and prone to human error.</p>
+      
+      <h3>The Solution</h3>
+      <p>We developed a system that combines:</p>
+      <ul>
+        <li><strong>MediaPipe Pose:</strong> For real-time human pose estimation</li>
+        <li><strong>YOLO v6:</strong> For object detection and classification</li>
+        <li><strong>StowFast:</strong> For efficient data processing and storage</li>
+      </ul>
+      
+      <h3>Implementation Details</h3>
+      <p>The system processes video feeds in real-time, identifying potential threats based on predefined patterns of behavior. When a threat is detected, the system alerts security personnel and provides relevant information about the situation.</p>
+      
+      <h3>Results</h3>
+      <p>The prototype demonstrated significant improvements in threat detection accuracy and response time compared to traditional methods. The system was able to identify various threat scenarios with a high degree of accuracy.</p>
+      
+      <h3>Future Improvements</h3>
+      <p>We plan to enhance the system with:</p>
+      <ul>
+        <li>Improved accuracy through additional training data</li>
+        <li>Integration with existing security systems</li>
+        <li>Mobile application for security personnel</li>
+      </ul>
+    0:{"P":null,"b":"wtZ8MPSEEqIbqnwzpfL0v","p":"","c":["","Blog","academic-minor-project",""],"i":false,"f":[[["",{"children":["Blog",{"children":[["slug","academic-minor-project","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b76cc3ae7af90e6f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__variable_5cfdac __variable_9a8899 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":["Blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","academic-minor-project","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[[["$","$L4",null,{}],["$","div",null,{"className":"fixed inset-0 -z-10 min-h-screen w-full [background:radial-gradient(125%_125%_at_50%_10%,#000_40%,#63e_100%)]"}],["$","div",null,{"className":"min-h-screen text-white","children":["$","div",null,{"className":"container mx-auto px-4 py-16","children":[["$","$L5",null,{"href":"/Blog","className":"inline-flex items-center text-purple-400 mb-8 hover:text-purple-300 transition-colors","children":[["$","svg",null,{"className":"w-5 h-5 mr-2","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","xmlns":"http://www.w3.org/2000/svg","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2","d":"M15 19l-7-7 7-7"}]}],"Back to Blog"]}],["$","article",null,{"className":"bg-gray-800 rounded-xl overflow-hidden shadow-xl","children":[["$","div",null,{"className":"relative h-64 md:h-96","children":["$","$L6",null,{"src":"/Ai.jpeg","alt":"My Academic minor project","fill":true,"style":{"objectFit":"cover"},"sizes":"(max-width: 768px) 100vw, (max-width: 1200px) 80vw, 70vw"}]}],["$","div",null,{"className":"p-8","children":[["$","div",null,{"className":"flex items-center mb-4","children":[["$","span",null,{"className":"inline-block px-3 py-1 text-xs font-semibold bg-purple-600 text-white rounded-full mr-4","children":"AI project"}],["$","span",null,{"className":"text-gray-400 text-sm","children":"April 15, 2023"}]]}],["$","h1",null,{"className":"text-4xl font-bold mb-6","children":"My Academic minor project"}],["$","div",null,{"className":"prose prose-invert max-w-none","dangerouslySetInnerHTML":{"__html":"$7"}}]]}]]}]]}]}]],["$","$L8",null,{"children":"$L9"}],null,["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","ylrVyhyl3SZBM9hzIMimL",{"children":[["$","$Lf",null,{"children":"$L10"}],null]}],null]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+12:"$Sreact.suspense"
+13:I[4911,[],"AsyncMetadata"]
+9:["$","$12",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]
+c:null
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+14:{"metadata":[["$","title","0",{"children":"Rahul Son Boro"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}],["$","link","2",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]],"error":null,"digest":"$undefined"}
+e:{"metadata":"$14:metadata","error":null,"digest":"$undefined"}

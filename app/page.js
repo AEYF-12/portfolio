@@ -2,7 +2,7 @@ import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import About from "./components/About";
 import Main from "./components/Main";
-import Contact from "./components/Contact";
+import Contact from "./Contact/page";
 import SkillsSection from "./components/Skill";
 
 export default function Home() {
